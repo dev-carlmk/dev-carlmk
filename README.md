@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm T. Carlos Kerwillain</h1>
-<h3 align="center">I’m a Software Engineering student focused on building strong fundamentals and growing into a reliable backend engineer.</h3><br><br>
+<h3 align="center">I’m a Software Engineering student intentionally building strong Java fundamentals with a long-term focus on backend engineering.</h3><br><br>
 
 - 🔭 I’m currently working on: **Java Fundamentals (Personal Learning Repository)**
 - 🌱 I’m currently learning: **Java | Backend-focused**
