@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm T. Carlos Kerwillain</h1>
 <h3 align="center">I’m a Software Engineering student intentionally building strong Java fundamentals with a long-term focus on backend engineering.</h3><br><br>
 
-- 🔭 I’m currently working on: **Java Fundamentals (Personal Learning Repository)**
+- 🔭 I’m currently working on: **Java Fundamentals (Object Oriented Programming)**
 - 🌱 I’m currently learning: **Java | Backend-focused**
-- 👯 I’m looking to collaborate on: **Beginner-friendly Java projects focused on Fundamentals and problem solving.**
+- 👯 I’m looking to collaborate on: **Beginner-friendly Java projects focused on Basics/Collections/OOP and problem solving.**
 - 🤝 I’m looking for help with: **Strengthening Java Fundamentals and clean coding practices.**
 - 📫 How to reach me: **tcarloskerwillain@gmail.com**
 - ⚡ Fun fact: **I believe discipline and fundamentals matter more than speed or hype.**<br><br>
